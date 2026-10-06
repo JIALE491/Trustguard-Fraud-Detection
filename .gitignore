@@ -1,0 +1,9 @@
+# Competition datasets are not redistributed
+Track 2 Training Dataset.csv
+Track 2 Testing Dataset.csv
+train.csv
+test.csv
+predictions.csv
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
